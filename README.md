@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/LuisBustillo/LuisBustillo/master/img/wave.gif" width="30px">
 
-I'm Luis, and I'm currently in my third year of the Engineering Masters course at Cambridge University :mortar_board:. I'm specialising in the field of Robotics :robot:, which combines expertise in Mechanical :wrench:, Electronics :zap: and Software engineering :computer:.
+I'm Luis, and I'm currently in my final year of the Engineering Masters course at Cambridge University :mortar_board:. I'm specialising in the field of Robotics :robot:, which combines expertise in Mechanical :wrench:, Electronics :zap: and Software engineering :computer:.
 
 Most of my projects are written in Python :snake: and C++ :floppy_disk:, and include personal projects as well as university assignments. Some of my passions include Robotics projects, programming Micro-controllers, and Machine Learning (more specificlly Deep Learning and Neural Networks). I am also interested in machine Navigation and Planning algorithms :scroll:.
 
