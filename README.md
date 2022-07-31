@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/LuisBustillo/LuisBustillo/master/img/wave.gif" width="1px">
+### Hi there <img src="https://raw.githubusercontent.com/LuisBustillo/LuisBustillo/master/img/wave.gif" width="10px">
 
 I'm Luis, and I'm currently in my final year of the Engineering Masters course at Cambridge University :mortar_board:. I'm specialising in the field of Robotics :robot:, which combines expertise in Mechanical :wrench:, Electronics :zap: and Software engineering :computer:.
 
