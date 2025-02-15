@@ -1,10 +1,12 @@
 ### Hi there <img src="https://raw.githubusercontent.com/LuisBustillo/LuisBustillo/master/img/wave.gif" width="30px">
 
-I'm Luis, and I'm currently in my final year of the Engineering Masters course at Cambridge University :mortar_board:. I'm specialising in the field of Robotics :robot:, which combines expertise in Mechanical :wrench:, Electronics :zap: and Software engineering :computer:.
+I'm Luis, and I'm currently working as a Software Engineer at Wagestream :briefcase:, a financial benefits application startup. I specialize in backend development and API design :gear: leveraging Python and React to build data integrations between clients and our platform.
 
-Most of my projects are written in Python :snake: and C++ :floppy_disk:, and include personal projects as well as university assignments. Some of my passions include Robotics projects, programming Micro-controllers, and Machine Learning (more specificlly Deep Learning and Neural Networks). I am also interested in machine Navigation and Planning algorithms :scroll:.
+I graduated in 2022 with a Master’s degree in Engineering from Cambridge University :mortar_board:, where I specialized in Robotics :robot:. My academic background blends expertise in Mechanical :wrench:, Electronics :zap:, and Software engineering :computer:. 
 
-I love learning :heart:, and I'm always on the lookout for new technologies to add to my toolbox. On that note, I'm open to any meaningful opportunities, feel free to get in touch via the links below :blush:.
+Most of my projects are written in Python :snake: and C++ :floppy_disk:, and include personal projects as well as university assignments. Some of my passions include Robotics, programming Micro-controllers, and AI (more specificlly Deep Learning and Neural Networks). I am also interested in machine Navigation and Planning algorithms :scroll:.
+
+I love learning :heart:, and I'm always on the lookout for new technologies to add to my toolbox. On that note, I'm open to any meaningful opportunities, feel free to reach out via the links below :blush:.
 
 
 <p align="center">
